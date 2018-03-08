@@ -5,3 +5,50 @@ header {
   margin-top: 20px;
   margin-bottom: 80px;
 }
+
+section h2{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 0;
+}
+
+section h3{
+  font-family: 'Roboto Mono', sans-serif;
+  color: #4757ff;
+}
+
+section p{
+  font-family: 'Roboto Light', sans-serif;
+}
+body{
+  text-align: center;
+}
+section{
+  display: inline-block;
+  width: 35%;
+  border-style: solid;
+  border-color: #4757FF;
+  vertical-align: top;
+  margin: 20px;
+  text-align: left;
+}
+
+hr{
+  border-color: #4757FF;
+}
+
+.title{
+    background-color: #4757FF;
+    color: white;
+}
+
+
+#orange{
+  background-color: #FB4E32;
+}
+#remotes{
+  border-style: solid;
+  border-color: #FB4E32;
+}
+#orange_font{
+  color: #FB4E32;
+}
